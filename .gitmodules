@@ -1,3 +1,6 @@
 [submodule "sentence-ordering"]
 	path = sentence-ordering
 	url = https://github.com/davidmcclure/sentence-ordering.git
+[submodule "sent2vec"]
+	path = sent2vec
+	url = https://github.com/epfml/sent2vec.git
