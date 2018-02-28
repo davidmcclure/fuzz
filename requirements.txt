@@ -1,4 +1,7 @@
 
 ipython
 jupyter
+spacy
 PyYAML
+cached_property
+attrs

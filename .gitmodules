@@ -1,0 +1,3 @@
+[submodule "sentence-ordering"]
+	path = sentence-ordering
+	url = https://github.com/davidmcclure/sentence-ordering.git
