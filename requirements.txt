@@ -5,3 +5,5 @@ spacy
 PyYAML
 cached_property
 attrs
+torchtext
+numpy

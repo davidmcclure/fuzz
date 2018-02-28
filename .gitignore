@@ -106,3 +106,4 @@ venv.bak/
 
 /pytorch
 /data
+.vector_cache
