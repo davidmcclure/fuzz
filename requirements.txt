@@ -7,3 +7,6 @@ cached_property
 attrs
 torchtext
 numpy
+pandas
+tqdm
+annoy
