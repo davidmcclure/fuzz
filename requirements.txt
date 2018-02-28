@@ -9,4 +9,5 @@ torchtext
 numpy
 pandas
 tqdm
+boltons
 annoy
