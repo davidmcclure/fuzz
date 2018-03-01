@@ -13,3 +13,4 @@ boltons
 annoy
 Cython
 flask
+ujson
